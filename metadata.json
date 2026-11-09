@@ -1,0 +1,7 @@
+{
+  "name": "Vaidham – Luxury Ayurvedic Wellness",
+  "description": "Second-generation luxury Ayurvedic wellness web experience with authentic batch traceability, holistic wellness desk, and AI Ayurvedic consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
